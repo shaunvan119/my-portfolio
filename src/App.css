@@ -1,0 +1,39 @@
+.main-wrapper {
+  text-align: center;
+  padding: 20px;
+  background-color: #05445E;
+  height: 100vh;
+  height: 100%;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+.portfolio-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.portfolio-item img {
+ 
+  height: 210px;
+  margin-right: 20px;
+}
+.name {
+    color: #189AB4;
+}
+
+.description {
+    color: #D4F1F4;
+}
+
+.web-des {
+    color:#D4F1F4 ;
+}
